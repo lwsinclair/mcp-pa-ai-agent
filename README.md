@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/zhangzhongnan928-mcp-pa-ai-agent-badge.png)](https://mseep.ai/app/zhangzhongnan928-mcp-pa-ai-agent)
+
 # MCP Personal Assistant Agent
 
 A versatile personal assistant AI agent built with the Model Context Protocol (MCP) that helps with calendar, tasks, emails, and more.
